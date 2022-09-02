@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x5C6F621De26Cc1A2b87BdABD00D02F95CF24Ab51",
-  "SCAN_LINK": "https://etherscan.io/address/0x5c6f621de26cc1a2b87bdabd00d02f95cf24ab51",
+  "CONTRACT_ADDRESS": "0x41e3D864cd0644289d66a0364A55dD3C332064CC",
+  "SCAN_LINK": "https://etherscan.io/address/0x41e3d864cd0644289d66a0364a55dd3c332064cc",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -14,7 +14,7 @@
   "GAS_LIMIT": 145000,
   "MAX_PER_TX": 10,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/v2-phunks",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/v2-phunk",
   "Telegram": "https://",
   "Discord": "https://",
   "Twitter": "https://",
